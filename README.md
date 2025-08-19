@@ -4,6 +4,18 @@ Markdown
 
 Este é um projeto desenvolvido em Laravel para gerenciar e acompanhar chamados, com funcionalidades como criação de tickets, dashboard de métricas e atendimento de ocorrências.
 
+## Tecnologias Utilizadas
+Este projeto foi construído utilizando as seguintes tecnologias:
+
+## Backend
+PHP: Linguagem de programação do lado do servidor.
+
+Laravel: Framework MVC para a criação da API e manipulação do banco de dados.
+
+## Frontend
+Bootstrap utilizado no PHP e Laravel
+Bootstrap: Framework CSS para o design responsivo, utilizado para a criação de componentes de interface como botões, cards e tabelas, garantindo uma aparência moderna e adaptável a diferentes tamanhos de tela.
+
 ## Requisitos do Sistema
 
 Certifique-se de que os seguintes softwares estão instalados em sua máquina:
